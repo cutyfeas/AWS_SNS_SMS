@@ -1,0 +1,14 @@
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWS_SNS_SMS.exe.config
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWS_SNS_SMS.exe
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWS_SNS_SMS.pdb
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWSSDK.Core.dll
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWSSDK.SimpleNotificationService.dll
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWSSDK.Core.pdb
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWSSDK.Core.xml
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWSSDK.SimpleNotificationService.pdb
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\bin\Debug\AWSSDK.SimpleNotificationService.xml
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\obj\Debug\AWS_SNS_SMS.csprojAssemblyReference.cache
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\obj\Debug\AWS_SNS_SMS.csproj.CoreCompileInputs.cache
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\obj\Debug\AWS_SNS_SMS.csproj.CopyComplete
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\obj\Debug\AWS_SNS_SMS.exe
+E:\My_Git\AWS_SNS_SMS\AWS_SNS_SMS\obj\Debug\AWS_SNS_SMS.pdb
